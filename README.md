@@ -1,11 +1,11 @@
 
-# 🧠 Java Functional Interfaces & Streams Examples
+# 🧠 Java Functional Interfaces (Lambdas) & Streams Examples
 
 Este repositorio contiene ejemplos prácticos sobre el uso de **interfaces funcionales** y **Streams** en Java. Cada sección incluye comentarios mejorados con emojis para facilitar su comprensión y recordación. ¡Ideal para aprender y repasar! 😄
 
 ---
 
-## 🔗 Interfaces Funcionales en Java
+## 🔗 Interfaces Funcionales (Lambdas) en Java
 
 Se incluyen ejemplos con las siguientes interfaces del paquete `java.util.function`:
 
@@ -49,8 +49,8 @@ Se presentan distintos métodos del API Stream, divididos entre intermedios y te
 
 ## 📁 Contenido del Proyecto
 
-- `FunctionalInterfaces.java`: Ejemplos de interfaces funcionales con comentarios explicativos.
-- `StreamExamples.java`: Ejemplos de métodos del Stream API, organizados por tipo de operación.
+- `Lambda.java`: Ejemplos de interfaces funcionales con comentarios explicativos.
+- `Stream.java`: Ejemplos de métodos del Stream API, organizados por tipo de operación.
 
 ---
 
